@@ -1,5 +1,5 @@
-# converter_WhisperX_srt2csv
-Convert srt file to tsv.
+# convertert_srt2csv
+Convert whisperX's srt file to tsv.
 
 # 実行方法
 
