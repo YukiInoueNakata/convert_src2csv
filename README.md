@@ -1,7 +1,7 @@
 # convertert_srt2csv
 Convert whisperX's srt file to tsv.
 
-# 実行方法
+## 実行方法
 
 1. 変換したいデータフォルダを `./data/raw`ディレクトリにいれる。  
 この際,必ず下記のようにsrtファイルがrawディレクトリの二つ下にあること。  
@@ -13,7 +13,7 @@ Convert whisperX's srt file to tsv.
 3. `./data/out/`　ディレクトリにcsvに変換されたファイルが出力される。
 
 ---
-# 想定ファイル形式
+## 想定ファイル形式
 
 1
 00:00:15,230 --> 00:00:29,117
