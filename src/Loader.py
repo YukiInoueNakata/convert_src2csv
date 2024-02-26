@@ -4,7 +4,7 @@ class Loader:
 
 
     def text_lists(self):
-        f = open(self.srt_path, "r", encoding="UTF-8")
+        f = open(self.srt_path, "r", encoding="UTF-8_sig")
         try:
             text_lists = f.readlines()
             return text_lists
